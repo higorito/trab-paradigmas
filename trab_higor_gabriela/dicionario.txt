@@ -1,0 +1,392 @@
+Palavra: gato
+Significado: felino doméstico que emite sons como "miau".
+
+Palavra: cachorro
+Significado: canino doméstico que emite sons como "au".
+
+Palavra: cabrito
+Significado: jovem da espécie caprina que emite sons como "bé".
+
+Palavra: água
+Significado: substância líquida e transparente essencial para a vida.
+
+Palavra: amor
+Significado: sentimento profundo de afeição e carinho.
+
+Palavra: casa
+Significado: construção onde as pessoas vivem e se abrigam.
+
+Palavra: felicidade
+Significado: estado de alegria e contentamento.
+
+Palavra: sonho
+Significado: experiência imaginária durante o sono ou desejo intenso.
+
+Palavra: tempo
+Significado: medida da duração dos eventos e das mudanças.
+
+Palavra: beleza
+Significado: característica de algo esteticamente agradável.
+
+Palavra: amizade
+Significado: relação de afeto e lealdade entre amigos.
+
+Palavra: liberdade
+Significado: estado de autonomia e ausência de restrições.
+
+Palavra: sol
+Significado: estrela que ilumina e aquece a Terra.
+
+Palavra: lua
+Significado: satélite natural que orbita ao redor da Terra.
+
+Palavra: riso
+Significado: expressão de alegria que envolve o som da gargalhada.
+
+Palavra: tristeza
+Significado: estado emocional de profunda melancolia.
+
+Palavra: felicidade
+Significado: sensação de contentamento e bem-estar.
+
+Palavra: esperança
+Significado: sentimento de confiança e otimismo em relação ao futuro.
+
+Palavra: chuva
+Significado: precipitação de água proveniente das nuvens.
+
+Palavra: vento
+Significado: movimento do ar em diferentes direções e intensidades.
+
+Palavra: sorriso
+Significado: expressão facial que demonstra alegria e satisfação.
+
+Palavra: música
+Significado: combinação de sons harmoniosos e ritmados.
+
+Palavra: felino
+Significado: animal da família dos felídeos, como leões e tigres.
+
+Palavra: canção
+Significado: composição musical com letra e melodia.
+
+Palavra: alegria
+Significado: estado de grande contentamento e prazer.
+
+Palavra: paixão
+Significado: sentimento intenso de amor ou desejo por algo ou alguém.
+
+Palavra: natureza
+Significado: conjunto de elementos e seres vivos que compõem o mundo.
+
+Palavra: silêncio
+Significado: ausência de ruído ou som.
+
+Palavra: amar
+Significado: sentir afeto profundo e dedicado por alguém ou algo.
+
+Palavra: sabedoria
+Significado: conhecimento profundo e experiência de vida.
+
+Palavra: viagem
+Significado: deslocamento de um lugar para outro.
+
+Palavra: felino
+Significado: pertencente à família dos felídeos, como leões e gatos.
+
+Palavra: saudade
+Significado: sentimento de nostalgia e falta de algo ou alguém.
+
+Palavra: abraço
+Significado: gesto de carinho que envolve o ato de envolver alguém com os braços.
+
+Palavra: agradecimento
+Significado: expressão de gratidão e reconhecimento.
+
+Palavra: coragem
+Significado: disposição para enfrentar desafios e superar medos.
+
+Palavra: floresta
+Significado: extensa área coberta por árvores e vegetação.
+
+Palavra: sorriso
+Significado: expressão facial que denota alegria e satisfação.
+
+Palavra: família
+Significado: grupo de pessoas unidas por laços de parentesco e afeto.
+
+Palavra: carinho
+Significado: demonstração de afeto e cuidado.
+
+Palavra: saúde
+Significado: estado de bem-estar físico e mental.
+
+Palavra: aprender
+Significado: adquirir conhecimento e habilidades por meio do estudo e experiência.
+
+Palavra: amizade
+Significado: relação de afeto, confiança e camaradagem entre amigos.
+
+Palavra: nascer
+Significado: vir ao mundo, iniciar a vida.
+
+Palavra: sorrir
+Significado: expressar alegria e contentamento com um sorriso no rosto.
+
+Palavra: felino
+Significado: animal da família dos felídeos, como tigres e leões.
+
+Palavra: verdade
+Significado: conformidade com os fatos e a realidade.
+
+Palavra: abraço
+Significado: gesto de carinho que envolve o ato de envolver alguém com os braços.
+
+Palavra: carinho
+Significado: demonstração de afeto e cuidado.
+
+Palavra: música
+Significado: arte de combinar sons de forma harmoniosa.
+
+Palavra: mar
+Significado: extensão de água salgada que cobre grande parte da superfície terrestre.
+
+Palavra: estrela
+Significado: objeto celestial brilhante que ilumina o céu noturno.
+
+Palavra: esperança
+Significado: sentimento de otimismo e confiança em relação ao futuro.
+
+Palavra: amar
+Significado: sentir afeto profundo e dedicado por alguém ou algo.
+
+Palavra: caminhar
+Significado: mover-se a pé, andar.
+
+Palavra: paz
+Significado: estado de tranquilidade e ausência de conflito.
+
+Palavra: sorriso
+Significado: expressão facial que denota alegria e felicidade.
+
+Palavra: amizade
+Significado: relação de afeto, confiança e companheirismo entre amigos.
+
+Palavra: sol
+Significado: estrela central do sistema solar que ilumina a Terra.
+
+Palavra: sonhar
+Significado: criar imagens e sensações durante o sono.
+
+Palavra: coração
+Significado: órgão que bombeia o sangue pelo corpo humano.
+
+Palavra: abraço
+Significado: gesto de carinho que envolve o ato de envolver alguém com os braços.
+
+Palavra: agradecimento
+Significado: expressão de gratidão e reconhecimento.
+
+Palavra: florescer
+Significado: desabrochar e desenvolver-se, como uma flor.
+
+Palavra: voar
+Significado: deslocar-se no ar através do voo.
+
+Palavra: amar
+Significado: sentir afeto profundo e dedicado por alguém ou algo.
+
+Palavra: gentileza
+Significado: qualidade de ser amável, cortês e educado.
+
+Palavra: sorriso
+Significado: expressão facial que denota alegria e felicidade.
+
+Palavra: gratidão
+Significado: sentimento de reconhecimento e apreço.
+
+Palavra: sonhar
+Significado: criar imagens e sensações durante o sono.
+
+Palavra: coragem
+Significado: disposição para enfrentar desafios e superar medos.
+
+Palavra: abraço
+Significado: gesto de carinho que envolve o ato de envolver alguém com os braços.
+
+Palavra: riso
+Significado: expressão de alegria que envolve o som da gargalhada.
+
+Palavra: liberdade
+Significado: estado de autonomia e ausência de restrições.
+
+Palavra: paz
+Significado: estado de tranquilidade e harmonia.
+
+Palavra: aprender
+Significado: adquirir conhecimento e habilidades por meio do estudo e experiência.
+
+Palavra: sol
+Significado: estrela central do sistema solar que ilumina a Terra.
+
+Palavra: brilho
+Significado: qualidade de emitir luz ou ter um aspecto radiante.
+
+Palavra: amizade
+Significado: relação de afeto, confiança e camaradagem entre amigos.
+
+Palavra: conquistar
+Significado: obter sucesso ou vitória após esforço e determinação.
+
+Palavra: coração
+Significado: órgão que bombeia o sangue pelo corpo humano.
+
+Palavra: serenidade
+Significado: estado de tranquilidade e calma.
+
+Palavra: chuva
+Significado: precipitação de água proveniente das nuvens.
+
+Palavra: esperança
+Significado: sentimento de otimismo e confiança em relação ao futuro.
+
+Palavra: riso
+Significado: expressão de alegria que envolve o som da gargalhada.
+
+Palavra: contemplar
+Significado: observar com atenção e admiração.
+
+Palavra: sonhar
+Significado: criar imagens e sensações durante o sono.
+
+Palavra: gratidão
+Significado: sentimento de reconhecimento e apreço.
+
+Palavra: abraço
+Significado: gesto de carinho que envolve o ato de envolver alguém com os braços.
+
+Palavra: fé
+Significado: confiança inabalável em algo ou alguém.
+
+Palavra: amar
+Significado: sentir afeto profundo e dedicado por alguém ou algo.
+
+Palavra: encantar
+Significado: cativar e fascinar alguém.
+
+Palavra: superar
+Significado: vencer obstáculos ou dificuldades.
+
+Palavra: carinho
+Significado: demonstração de afeto e cuidado.
+
+Palavra: sol
+Significado: estrela central do sistema solar que ilumina a Terra.
+
+Palavra: brilhar
+Significado: emitir luz ou ter um aspecto radiante.
+
+Palavra: abraço
+Significado: gesto de carinho que envolve o ato de envolver alguém com os braços.
+
+Palavra: esperança
+Significado: sentimento de otimismo e confiança em relação ao futuro.
+
+Palavra: conquista
+Significado: realização de algo após esforço e dedicação.
+
+Palavra: sorriso
+Significado: expressão facial que denota alegria e felicidade.
+
+Palavra: sonhar
+Significado: criar imagens e sensações durante o sono.
+
+Palavra: amizade
+Significado: relação de afeto, confiança e camaradagem entre amigos.
+
+Palavra: gratidão
+Significado: sentimento de reconhecimento e apreço.
+
+Palavra: esperança
+Significado: sentimento de otimismo e confiança em relação ao futuro.
+
+Palavra: encantar
+Significado: cativar e fascinar alguém.
+
+Palavra: coragem
+Significado: disposição para enfrentar desafios e superar medos.
+
+Palavra: alegria
+Significado: estado de grande contentamento e felicidade.
+
+Palavra: abraço
+Significado: gesto de carinho que envolve o ato de envolver alguém com os braços.
+
+Palavra: serenidade
+Significado: estado de tranquilidade e calma.
+
+Palavra: amar
+Significado: sentir afeto profundo e dedicado por alguém ou algo.
+
+Palavra: sorriso
+Significado: expressão facial que denota alegria e felicidade.
+
+Palavra: esperança
+Significado: sentimento de otimismo e confiança em relação ao futuro.
+
+Palavra: gratidão
+Significado: sentimento de reconhecimento e apreço.
+
+Palavra: conquistar
+Significado: obter sucesso ou vitória após esforço e determinação.
+
+Palavra: superar
+Significado: vencer obstáculos ou dificuldades.
+
+Palavra: amizade
+Significado: relação de afeto, confiança e camaradagem entre amigos.
+
+Palavra: coração
+Significado: órgão que bombeia o sangue pelo corpo humano.
+
+Palavra: sonhar
+Significado: criar imagens e sensações durante o sono.
+
+Palavra: agradecimento
+Significado: expressão de gratidão e reconhecimento.
+
+Palavra: contemplar
+Significado: observar com atenção e admiração.
+
+Palavra: beleza
+Significado: qualidade estética que encanta e agrada aos olhos.
+
+Palavra: encantar
+Significado: cativar e fascinar alguém.
+
+Palavra: amor
+Significado: sentimento profundo de afeto e carinho.
+
+Palavra: serenidade
+Significado: estado de tranquilidade e calma.
+
+Palavra: alegria
+Significado: estado de grande contentamento e felicidade.
+
+Palavra: riso
+Significado: expressão de alegria que envolve o som da gargalhada.
+
+Palavra: gratidão
+Significado: sentimento de reconhecimento e apreço.
+
+Palavra: esperança
+Significado: sentimento de otimismo e confiança em relação ao futuro.
+
+Palavra: conquistar
+Significado: obter sucesso ou vitória após esforço e determinação.
+
+Palavra: superar
+Significado: vencer obstáculos ou dificuldades.
+
+Palavra: amizade
+Significado: relação de afeto, confiança e camaradagem entre amigos.
